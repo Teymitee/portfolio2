@@ -1,4 +1,4 @@
-import { ThemeProvider, CssBaseline, createTheme, Divider } from "@mui/material";
+import { ThemeProvider, CssBaseline, createTheme } from "@mui/material";
 import { useMemo, useState } from "react";
 import { themeSettings } from "./theme";
 import Navbar from "./scenes/Navbar";
