@@ -6,7 +6,7 @@ import Typewriter from "typewriter-effect";
 
 const Banner = () => {
   return (
-    <Box textAlign={"center"} p={"3rem 0"} display={"block"}>
+    <Box textAlign={"center"} p={"3rem 0"} display={"block"} minHeight={"90vh"}>
       <img
         style={{
           objectFit: "cover",
